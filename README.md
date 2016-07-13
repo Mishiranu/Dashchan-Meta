@@ -6,7 +6,7 @@ The source code is available in specific branch for every extension.
 
 Use `git clone -b %CHAN_NAME% https://github.com/Mishiranu/DashchanExtensions` to clone specific branch.
 
-# Building Guide
+## Building Guide
 
 1. Install JDK 7 or higher
 2. Install Android SDK, define `ANDROID_HOME` environment variable or set `sdk.dir` in `local.properties`
