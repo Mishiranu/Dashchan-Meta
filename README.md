@@ -6,13 +6,16 @@ The source code is available in specific branch for every extension.
 
 Use `git clone -b %CHAN_NAME% https://github.com/Mishiranu/Dashchan-Extensions` to clone specific branch.
 
+Video player libraries extension is located in the [neighboring repository](https://github.com/Mishiranu/Dashchan-Webm).
+
+General dependencies: [Public API](https://github.com/Mishiranu/Dashchan-Library), [Static Library](https://github.com/Mishiranu/Dashchan-Static).
+
 ## Building Guide
 
 1. Install JDK 7 or higher
 2. Install Android SDK, define `ANDROID_HOME` environment variable or set `sdk.dir` in `local.properties`
-3. Install Android NDK, define `ANDROID_NDK_HOME` environment variable or set `ndk.dir` in `local.properties`
-4. Install Gradle
-5. Run `gradle assembleRelease`
+3. Install Gradle
+4. Run `gradle assembleRelease`
 
 The resulting APK file will appear in `build/outputs/apk` directory.
 
