@@ -12,7 +12,7 @@ General dependencies: [Public API](https://github.com/Mishiranu/Dashchan-Library
 
 ## Building Guide
 
-1. Install JDK 7 or higher
+1. Install JDK 8 or higher
 2. Install Android SDK, define `ANDROID_HOME` environment variable or set `sdk.dir` in `local.properties`
 3. Install Gradle
 4. Run `gradle assembleRelease`
