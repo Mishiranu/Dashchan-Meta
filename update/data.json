@@ -516,18 +516,6 @@
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanRonery.apk"
 		}
 	],
-	"rulet":
-	[
-		{
-			"title": "Release",
-			"name": "1.4",
-			"code": 1,
-			"version": 1,
-			"minSdk": 14,
-			"length": 63542,
-			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanRulet.apk"
-		}
-	],
 	"sevenchan":
 	[
 		{
