@@ -292,11 +292,11 @@
 	[
 		{
 			"title": "Release",
-			"name": "1.9",
+			"name": "1.10",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 27279,
+			"length": 27415,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanInfinite.apk"
 		}
 	],
