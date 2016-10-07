@@ -228,6 +228,18 @@
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanEndchan.apk"
 		}
 	],
+	"exach":
+	[
+		{
+			"title": "Release",
+			"name": "1.0",
+			"code": 1,
+			"version": 1,
+			"minSdk": 16,
+			"length": 24300,
+			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanExach.apk"
+		}
+	],
 	"fiftyfive":
 	[
 		{
@@ -244,11 +256,11 @@
 	[
 		{
 			"title": "Release",
-			"name": "1.10",
+			"name": "1.11",
 			"code": 1,
 			"version": 1,
-			"minSdk": 14,
-			"length": 61224,
+			"minSdk": 16,
+			"length": 24327,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanFourchan.apk"
 		}
 	],
