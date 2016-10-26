@@ -3,12 +3,12 @@
 	[
 		{
 			"title": "Release",
-			"name": "2.8.3",
-			"code": 1031,
+			"name": "2.9.0",
+			"code": 1032,
 			"minVersion": 1,
 			"maxVersion": 1,
 			"minSdk": 16,
-			"length": 1144420,
+			"length": 1156500,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/Dashchan.apk"
 		}
 	],
