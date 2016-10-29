@@ -624,6 +624,18 @@
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanTwowatch.apk"
 		}
 	],
+	"uboachan":
+	[
+		{
+			"title": "Release",
+			"name": "1.0",
+			"code": 1,
+			"version": 1,
+			"minSdk": 16,
+			"length": 22419,
+			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanUboachan.apk"
+		}
+	],
 	"valkyria":
 	[
 		{
