@@ -420,6 +420,18 @@
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanNulldvachin.apk"
 		}
 	],
+	"nulldvachnet":
+	[
+		{
+			"title": "Release",
+			"name": "1.0",
+			"code": 1,
+			"version": 1,
+			"minSdk": 16,
+			"length": 21535,
+			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanNulldvachnet.apk"
+		}
+	],
 	"nulleu":
 	[
 		{
