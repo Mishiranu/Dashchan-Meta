@@ -336,6 +336,18 @@
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanKrautchan.apk"
 		}
 	],
+	"kropyvach":
+	[
+		{
+			"title": "Release",
+			"name": "1.0",
+			"code": 1,
+			"version": 1,
+			"minSdk": 16,
+			"length": 23228,
+			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanKropyvach.apk"
+		}
+	],
 	"kurisach":
 	[
 		{
