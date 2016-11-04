@@ -412,11 +412,11 @@
 	[
 		{
 			"title": "Release",
-			"name": "1.6",
+			"name": "1.7",
 			"code": 1,
 			"version": 1,
-			"minSdk": 14,
-			"length": 58657,
+			"minSdk": 16,
+			"length": 24105,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanNowere.apk"
 		}
 	],
