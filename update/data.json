@@ -220,11 +220,11 @@
 	[
 		{
 			"title": "Release",
-			"name": "1.22",
+			"name": "1.23",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 238007,
+			"length": 238087,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanDvach.apk"
 		}
 	],
