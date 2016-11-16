@@ -288,6 +288,18 @@
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanFourplebs.apk"
 		}
 	],
+	"freeportseven":
+	[
+		{
+			"title": "Release",
+			"name": "1.0",
+			"code": 1,
+			"version": 1,
+			"minSdk": 16,
+			"length": 18048,
+			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanFreeportSeven.apk"
+		}
+	],
 	"haruhichan":
 	[
 		{
