@@ -564,6 +564,18 @@
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanPrincessLuna.apk"
 		}
 	],
+	"randomarchive":
+	[
+		{
+			"title": "Release",
+			"name": "1.0",
+			"code": 1,
+			"version": 1,
+			"minSdk": 16,
+			"length": 15724,
+			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanRandomArchive.apk"
+		}
+	],
 	"ronery":
 	[
 		{
