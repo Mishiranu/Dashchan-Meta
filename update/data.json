@@ -312,6 +312,18 @@
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanHaruhichan.apk"
 		}
 	],
+	"gurochan":
+	[
+		{
+			"title": "Release",
+			"name": "1.0",
+			"code": 1,
+			"version": 1,
+			"minSdk": 16,
+			"length": 21219,
+			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanGurochan.apk"
+		}
+	],
 	"horochan":
 	[
 		{
