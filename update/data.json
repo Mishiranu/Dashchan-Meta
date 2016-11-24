@@ -144,6 +144,18 @@
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanCableSix.apk"
 		}
 	],
+	"chaosach":
+	[
+		{
+			"title": "Release",
+			"name": "1.0",
+			"code": 1,
+			"version": 1,
+			"minSdk": 16,
+			"length": 24111,
+			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanChaosach.apk"
+		}
+	],
 	"chiochan":
 	[
 		{
@@ -328,11 +340,11 @@
 	[
 		{
 			"title": "Release",
-			"name": "1.0",
+			"name": "1.1",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 23982,
+			"length": 24030,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanHaibane.apk"
 		}
 	],
