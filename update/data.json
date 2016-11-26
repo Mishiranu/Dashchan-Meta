@@ -232,11 +232,11 @@
 	[
 		{
 			"title": "Release",
-			"name": "1.24",
+			"name": "1.25",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 238087,
+			"length": 237903,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanDvach.apk"
 		}
 	],
@@ -436,11 +436,11 @@
 	[
 		{
 			"title": "Release",
-			"name": "1.4",
+			"name": "1.5",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 22953,
+			"length": 22525,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanMakabaPaid.apk"
 		}
 	],
