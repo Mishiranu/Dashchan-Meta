@@ -708,6 +708,18 @@
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanTiretirech.apk"
 		}
 	],
+	"touhouchan":
+	[
+		{
+			"title": "Release",
+			"name": "1.0",
+			"code": 1,
+			"version": 1,
+			"minSdk": 16,
+			"length": 21641,
+			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanTouhouchan.apk"
+		}
+	],
 	"tumbach":
 	[
 		{
