@@ -484,11 +484,11 @@
 	[
 		{
 			"title": "Release",
-			"name": "1.7",
+			"name": "1.8",
 			"code": 1,
 			"version": 1,
-			"minSdk": 14,
-			"length": 60460,
+			"minSdk": 16,
+			"length": 23170,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanNulldvachin.apk"
 		}
 	],
