@@ -156,6 +156,18 @@
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanCableSix.apk"
 		}
 	],
+	"candydollchan":
+	[
+		{
+			"title": "Release",
+			"name": "1.0",
+			"code": 1,
+			"version": 1,
+			"minSdk": 16,
+			"length": 21640,
+			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanCandydollchan.apk"
+		}
+	],
 	"chaosach":
 	[
 		{
