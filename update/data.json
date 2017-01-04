@@ -208,11 +208,11 @@
 	[
 		{
 			"title": "Release",
-			"name": "1.17",
+			"name": "1.18",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 27864,
+			"length": 27912,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanCirno.apk"
 		}
 	],
