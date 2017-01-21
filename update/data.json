@@ -540,6 +540,18 @@
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanNullnyan.apk"
 		}
 	],
+	"nullone":
+	[
+		{
+			"title": "Release",
+			"name": "1.0",
+			"code": 1,
+			"version": 1,
+			"minSdk": 16,
+			"length": 27502,
+			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanNullone.apk"
+		}
+	],
 	"nulltirech":
 	[
 		{
