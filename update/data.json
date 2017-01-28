@@ -816,6 +816,18 @@
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanWizardchan.apk"
 		}
 	],
+	"xyntach":
+	[
+		{
+			"title": "Release",
+			"name": "1.0",
+			"code": 1,
+			"version": 1,
+			"minSdk": 16,
+			"length": 24830,
+			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanXyntach.apk"
+		}
+	],
 	"yakujimoe":
 	[
 		{
