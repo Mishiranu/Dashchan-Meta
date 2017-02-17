@@ -144,6 +144,18 @@
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanBritfags.apk"
 		}
 	],
+	"bunbunmaru":
+	[
+		{
+			"title": "Release",
+			"name": "1.0",
+			"code": 1,
+			"version": 1,
+			"minSdk": 16,
+			"length": 21769,
+			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanBunbunmaru.apk"
+		}
+	],
 	"cablesix":
 	[
 		{
