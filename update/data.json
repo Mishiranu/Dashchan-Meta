@@ -556,11 +556,11 @@
 	[
 		{
 			"title": "Release",
-			"name": "1.1",
+			"name": "1.2",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 28066,
+			"length": 28090,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanNullone.apk"
 		}
 	],
