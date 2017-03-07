@@ -328,11 +328,11 @@
 	[
 		{
 			"title": "Release",
-			"name": "1.3",
+			"name": "1.4",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 20428,
+			"length": 20468,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanFourplebs.apk"
 		}
 	],
