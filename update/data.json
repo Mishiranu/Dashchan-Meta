@@ -316,11 +316,11 @@
 	[
 		{
 			"title": "Release",
-			"name": "1.12",
+			"name": "1.13",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 26639,
+			"length": 26739,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanFourchan.apk"
 		}
 	],
