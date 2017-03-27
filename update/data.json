@@ -580,11 +580,11 @@
 	[
 		{
 			"title": "Release",
-			"name": "1.5",
+			"name": "1.6",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 27480,
+			"length": 27808,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanOnechanca.apk"
 		}
 	],
