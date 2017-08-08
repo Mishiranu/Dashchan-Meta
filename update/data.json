@@ -3,12 +3,12 @@
 	[
 		{
 			"title": "Release",
-			"name": "2.10.1",
+			"name": "2.10.2",
 			"code": 1033,
 			"minVersion": 1,
 			"maxVersion": 1,
 			"minSdk": 16,
-			"length": 1178285,
+			"length": 1181885,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/Dashchan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
@@ -927,11 +927,11 @@
 	[
 		{
 			"title": "Release",
-			"name": "1.4",
+			"name": "1.5",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 4249803,
+			"length": 5320327,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanWebm.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
