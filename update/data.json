@@ -3,12 +3,12 @@
 	[
 		{
 			"title": "Release",
-			"name": "2.10.3",
+			"name": "2.10.4",
 			"code": 1033,
 			"minVersion": 1,
 			"maxVersion": 1,
 			"minSdk": 16,
-			"length": 1181877,
+			"length": 1123247,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/Dashchan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
@@ -303,11 +303,11 @@
 	[
 		{
 			"title": "Release",
-			"name": "1.35",
+			"name": "1.36",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 58667,
+			"length": 62122,
 			"source": "/Mishiranu/Dashchan-Extensions/master/update/package/DashchanDvach.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
