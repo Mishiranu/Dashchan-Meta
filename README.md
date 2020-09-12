@@ -1,6 +1,6 @@
 # Dashchan Extensions
 
-This repository is designed to store Dashchan extensions source code.
+This repository is designed to store Dashchan extensions source code and themes.
 
 The source code is available in specific branch for every extension.
 
@@ -8,7 +8,8 @@ Use `git clone -b %CHAN_NAME% https://github.com/Mishiranu/Dashchan-Extensions` 
 
 Video player libraries extension is located in the [neighboring repository](https://github.com/Mishiranu/Dashchan-Webm).
 
-General dependencies: [Public API](https://github.com/Mishiranu/Dashchan-Library), [Static Library](https://github.com/Mishiranu/Dashchan-Static).
+General dependencies: [Public API](https://github.com/Mishiranu/Dashchan-Library),
+[Static Library](https://github.com/Mishiranu/Dashchan-Static).
 
 ## Building Guide
 
