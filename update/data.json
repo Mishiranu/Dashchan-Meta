@@ -1,6 +1,8 @@
 {
-	"client":
-	[
+	"meta": {
+		"repository": "Dashchan official releases"
+	},
+	"client": [
 		{
 			"title": "Release",
 			"name": "2.10.4",
@@ -13,8 +15,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"allchan":
-	[
+	"allchan": [
 		{
 			"title": "Release",
 			"name": "1.8",
@@ -26,8 +27,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"alphachan":
-	[
+	"alphachan": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -39,8 +39,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"alterchan":
-	[
+	"alterchan": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -52,8 +51,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"anonfm":
-	[
+	"anonfm": [
 		{
 			"title": "Release",
 			"name": "1.2",
@@ -65,8 +63,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"apachan":
-	[
+	"apachan": [
 		{
 			"title": "Release",
 			"name": "1.2",
@@ -78,8 +75,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"archiveliom":
-	[
+	"archiveliom": [
 		{
 			"title": "Release",
 			"name": "1.1",
@@ -91,8 +87,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"archiverbt":
-	[
+	"archiverbt": [
 		{
 			"title": "Release",
 			"name": "1.7",
@@ -104,8 +99,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"arhivach":
-	[
+	"arhivach": [
 		{
 			"title": "Release",
 			"name": "1.10",
@@ -117,8 +111,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"bonzibuddy":
-	[
+	"bonzibuddy": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -130,8 +123,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"brchan":
-	[
+	"brchan": [
 		{
 			"title": "Release",
 			"name": "1.7",
@@ -143,8 +135,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"britfags":
-	[
+	"britfags": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -156,8 +147,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"bunbunmaru":
-	[
+	"bunbunmaru": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -169,8 +159,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"cablesix":
-	[
+	"cablesix": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -182,8 +171,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"candydollchan":
-	[
+	"candydollchan": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -195,8 +183,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"chaosach":
-	[
+	"chaosach": [
 		{
 			"title": "Release",
 			"name": "1.1",
@@ -208,8 +195,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"chiochan":
-	[
+	"chiochan": [
 		{
 			"title": "Release",
 			"name": "1.12",
@@ -221,8 +207,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"chuckdfwk":
-	[
+	"chuckdfwk": [
 		{
 			"title": "Release",
 			"name": "1.1",
@@ -234,8 +219,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"cirno":
-	[
+	"cirno": [
 		{
 			"title": "Release",
 			"name": "1.20",
@@ -247,8 +231,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"dangeru":
-	[
+	"dangeru": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -260,8 +243,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"desustorage":
-	[
+	"desustorage": [
 		{
 			"title": "Release",
 			"name": "1.4",
@@ -273,8 +255,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"diochan":
-	[
+	"diochan": [
 		{
 			"title": "Release",
 			"name": "1.3",
@@ -286,8 +267,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"dobrochan":
-	[
+	"dobrochan": [
 		{
 			"title": "Release",
 			"name": "1.14",
@@ -299,8 +279,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"dvach":
-	[
+	"dvach": [
 		{
 			"title": "Release",
 			"name": "1.36",
@@ -312,8 +291,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"endchan":
-	[
+	"endchan": [
 		{
 			"title": "Release",
 			"name": "1.6",
@@ -325,8 +303,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"erlach":
-	[
+	"erlach": [
 		{
 			"title": "Release",
 			"name": "1.2",
@@ -338,8 +315,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"exach":
-	[
+	"exach": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -351,8 +327,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"fiftyfive":
-	[
+	"fiftyfive": [
 		{
 			"title": "Release",
 			"name": "1.3",
@@ -364,8 +339,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"fourchan":
-	[
+	"fourchan": [
 		{
 			"title": "Release",
 			"name": "1.15",
@@ -377,8 +351,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"fourplebs":
-	[
+	"fourplebs": [
 		{
 			"title": "Release",
 			"name": "1.4",
@@ -390,8 +363,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"freeportseven":
-	[
+	"freeportseven": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -403,8 +375,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"haruhichan":
-	[
+	"haruhichan": [
 		{
 			"title": "Release",
 			"name": "1.2",
@@ -416,8 +387,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"gurochan":
-	[
+	"gurochan": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -429,8 +399,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"haibane":
-	[
+	"haibane": [
 		{
 			"title": "Release",
 			"name": "1.1",
@@ -442,8 +411,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"horochan":
-	[
+	"horochan": [
 		{
 			"title": "Release",
 			"name": "1.4",
@@ -455,8 +423,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"infinite":
-	[
+	"infinite": [
 		{
 			"title": "Release",
 			"name": "1.12",
@@ -468,8 +435,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"krautchan":
-	[
+	"krautchan": [
 		{
 			"title": "Release",
 			"name": "1.3",
@@ -481,8 +447,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"kropyvach":
-	[
+	"kropyvach": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -494,8 +459,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"kurisach":
-	[
+	"kurisach": [
 		{
 			"title": "Release",
 			"name": "1.7",
@@ -507,8 +471,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"lainchan":
-	[
+	"lainchan": [
 		{
 			"title": "Release",
 			"name": "1.5",
@@ -520,8 +483,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"local":
-	[
+	"local": [
 		{
 			"title": "Release",
 			"name": "1.7",
@@ -533,8 +495,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"lolifox":
-	[
+	"lolifox": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -546,8 +507,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"makabapaid":
-	[
+	"makabapaid": [
 		{
 			"title": "Release",
 			"name": "1.7",
@@ -559,8 +519,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"meguca":
-	[
+	"meguca": [
 		{
 			"title": "Release",
 			"name": "1.1",
@@ -572,8 +531,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"nowere":
-	[
+	"nowere": [
 		{
 			"title": "Release",
 			"name": "1.7",
@@ -585,8 +543,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"nullchan":
-	[
+	"nullchan": [
 		{
 			"title": "Release",
 			"name": "1.1",
@@ -598,8 +555,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"nulldvachin":
-	[
+	"nulldvachin": [
 		{
 			"title": "Release",
 			"name": "1.9",
@@ -611,8 +567,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"nulldvachnet":
-	[
+	"nulldvachnet": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -624,8 +579,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"nulleu":
-	[
+	"nulleu": [
 		{
 			"title": "Release",
 			"name": "1.9",
@@ -637,8 +591,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"nullnyan":
-	[
+	"nullnyan": [
 		{
 			"title": "Release",
 			"name": "1.8",
@@ -650,8 +603,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"nullone":
-	[
+	"nullone": [
 		{
 			"title": "Release",
 			"name": "1.3",
@@ -663,8 +615,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"nulltirech":
-	[
+	"nulltirech": [
 		{
 			"title": "Release",
 			"name": "1.3",
@@ -676,8 +627,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"onechanca":
-	[
+	"onechanca": [
 		{
 			"title": "Release",
 			"name": "1.6",
@@ -689,8 +639,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"owlchan":
-	[
+	"owlchan": [
 		{
 			"title": "Release",
 			"name": "1.2",
@@ -702,8 +651,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"ozuchan":
-	[
+	"ozuchan": [
 		{
 			"title": "Release",
 			"name": "1.1",
@@ -715,8 +663,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"ponyach":
-	[
+	"ponyach": [
 		{
 			"title": "Release",
 			"name": "1.3",
@@ -728,8 +675,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"ponychan":
-	[
+	"ponychan": [
 		{
 			"title": "Release",
 			"name": "1.7",
@@ -741,8 +687,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"princessluna":
-	[
+	"princessluna": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -754,8 +699,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"randomarchive":
-	[
+	"randomarchive": [
 		{
 			"title": "Release",
 			"name": "1.1",
@@ -767,8 +711,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"ronery":
-	[
+	"ronery": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -780,8 +723,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"sevenchan":
-	[
+	"sevenchan": [
 		{
 			"title": "Release",
 			"name": "1.3",
@@ -793,8 +735,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"shanachan":
-	[
+	"shanachan": [
 		{
 			"title": "Release",
 			"name": "1.1",
@@ -806,8 +747,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"sharechan":
-	[
+	"sharechan": [
 		{
 			"title": "Release",
 			"name": "1.1",
@@ -819,8 +759,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"synch":
-	[
+	"synch": [
 		{
 			"title": "Release",
 			"name": "1.2",
@@ -832,8 +771,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"taima":
-	[
+	"taima": [
 		{
 			"title": "Release",
 			"name": "1.6",
@@ -845,8 +783,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"tiretirech":
-	[
+	"tiretirech": [
 		{
 			"title": "Release",
 			"name": "1.3",
@@ -858,8 +795,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"touhouchan":
-	[
+	"touhouchan": [
 		{
 			"title": "Release",
 			"name": "1.1",
@@ -871,8 +807,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"tumbach":
-	[
+	"tumbach": [
 		{
 			"title": "Release",
 			"name": "1.2",
@@ -884,8 +819,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"twentyseven":
-	[
+	"twentyseven": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -897,8 +831,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"twowatch":
-	[
+	"twowatch": [
 		{
 			"title": "Release",
 			"name": "1.1",
@@ -910,8 +843,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"uboachan":
-	[
+	"uboachan": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -923,8 +855,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"valkyria":
-	[
+	"valkyria": [
 		{
 			"title": "Release",
 			"name": "1.2",
@@ -936,8 +867,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"webm":
-	[
+	"webm": [
 		{
 			"title": "Release",
 			"name": "1.5",
@@ -949,8 +879,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"wizardchan":
-	[
+	"wizardchan": [
 		{
 			"title": "Release",
 			"name": "1.1",
@@ -962,8 +891,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"xyntach":
-	[
+	"xyntach": [
 		{
 			"title": "Release",
 			"name": "1.0",
@@ -975,8 +903,7 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"yakujimoe":
-	[
+	"yakujimoe": [
 		{
 			"title": "Release",
 			"name": "1.1",
