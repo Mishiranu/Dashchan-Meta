@@ -5,13 +5,13 @@
 	"client": [
 		{
 			"title": "Release",
-			"name": "3.0.0",
-			"code": 1034,
+			"name": "3.0.1",
+			"code": 1035,
 			"minVersion": 1,
 			"maxVersion": 1,
 			"minSdk": 16,
-			"length": 1512301,
-			"source": "//github.com/Mishiranu/Dashchan/releases/download/3.0.0/Dashchan.apk",
+			"length": 1513073,
+			"source": "//github.com/Mishiranu/Dashchan/releases/download/3.0.1/Dashchan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
