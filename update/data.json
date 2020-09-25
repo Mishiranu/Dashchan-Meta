@@ -66,11 +66,11 @@
 	"archiverbt": [
 		{
 			"title": "Release",
-			"name": "1.7",
+			"name": "1.8",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 16561,
+			"length": 24806,
 			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanArchiveRbt.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
@@ -102,11 +102,11 @@
 	"bunbunmaru": [
 		{
 			"title": "Release",
-			"name": "1.0",
+			"name": "1.1",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 21769,
+			"length": 32018,
 			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanBunbunmaru.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
@@ -162,11 +162,11 @@
 	"cirno": [
 		{
 			"title": "Release",
-			"name": "1.20",
+			"name": "1.21",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 27484,
+			"length": 36653,
 			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanCirno.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
@@ -186,11 +186,11 @@
 	"desustorage": [
 		{
 			"title": "Release",
-			"name": "1.4",
+			"name": "1.5",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 20270,
+			"length": 26311,
 			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanDesustorage.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
@@ -402,11 +402,11 @@
 	"nowere": [
 		{
 			"title": "Release",
-			"name": "1.7",
+			"name": "1.8",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 24105,
+			"length": 32950,
 			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanNowere.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
@@ -654,11 +654,11 @@
 	"yakujimoe": [
 		{
 			"title": "Release",
-			"name": "1.1",
+			"name": "1.2",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 23428,
+			"length": 33433,
 			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanYakujiMoe.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
