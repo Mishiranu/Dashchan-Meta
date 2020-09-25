@@ -63,30 +63,6 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"apachan": [
-		{
-			"title": "Release",
-			"name": "1.2",
-			"code": 1,
-			"version": 1,
-			"minSdk": 14,
-			"length": 62153,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanApachan.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
-	"archiveliom": [
-		{
-			"title": "Release",
-			"name": "1.1",
-			"code": 1,
-			"version": 1,
-			"minSdk": 14,
-			"length": 52743,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanArchiveLiom.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
 	"archiverbt": [
 		{
 			"title": "Release",
@@ -111,18 +87,6 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"bonzibuddy": [
-		{
-			"title": "Release",
-			"name": "1.0",
-			"code": 1,
-			"version": 1,
-			"minSdk": 16,
-			"length": 21177,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanBonziBuddy.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
 	"brchan": [
 		{
 			"title": "Release",
@@ -135,18 +99,6 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"britfags": [
-		{
-			"title": "Release",
-			"name": "1.0",
-			"code": 1,
-			"version": 1,
-			"minSdk": 16,
-			"length": 22759,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanBritfags.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
 	"bunbunmaru": [
 		{
 			"title": "Release",
@@ -156,18 +108,6 @@
 			"minSdk": 16,
 			"length": 21769,
 			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanBunbunmaru.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
-	"cablesix": [
-		{
-			"title": "Release",
-			"name": "1.0",
-			"code": 1,
-			"version": 1,
-			"minSdk": 14,
-			"length": 55840,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanCableSix.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -363,42 +303,6 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"freeportseven": [
-		{
-			"title": "Release",
-			"name": "1.0",
-			"code": 1,
-			"version": 1,
-			"minSdk": 16,
-			"length": 18048,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanFreeportSeven.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
-	"haruhichan": [
-		{
-			"title": "Release",
-			"name": "1.2",
-			"code": 1,
-			"version": 1,
-			"minSdk": 16,
-			"length": 20308,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanHaruhichan.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
-	"gurochan": [
-		{
-			"title": "Release",
-			"name": "1.0",
-			"code": 1,
-			"version": 1,
-			"minSdk": 16,
-			"length": 21219,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanGurochan.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
 	"haibane": [
 		{
 			"title": "Release",
@@ -420,30 +324,6 @@
 			"minSdk": 16,
 			"length": 17679,
 			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanHorochan.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
-	"infinite": [
-		{
-			"title": "Release",
-			"name": "1.12",
-			"code": 1,
-			"version": 1,
-			"minSdk": 16,
-			"length": 27911,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanInfinite.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
-	"krautchan": [
-		{
-			"title": "Release",
-			"name": "1.3",
-			"code": 1,
-			"version": 1,
-			"minSdk": 14,
-			"length": 59576,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanKrautchan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -519,18 +399,6 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"meguca": [
-		{
-			"title": "Release",
-			"name": "1.1",
-			"code": 1,
-			"version": 1,
-			"minSdk": 16,
-			"length": 25007,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanMeguca.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
 	"nowere": [
 		{
 			"title": "Release",
@@ -543,18 +411,6 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"nullchan": [
-		{
-			"title": "Release",
-			"name": "1.1",
-			"code": 1,
-			"version": 1,
-			"minSdk": 16,
-			"length": 20115,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanNullchan.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
 	"nulldvachin": [
 		{
 			"title": "Release",
@@ -564,54 +420,6 @@
 			"minSdk": 16,
 			"length": 23218,
 			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanNulldvachin.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
-	"nulldvachnet": [
-		{
-			"title": "Release",
-			"name": "1.0",
-			"code": 1,
-			"version": 1,
-			"minSdk": 16,
-			"length": 21535,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanNulldvachnet.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
-	"nulleu": [
-		{
-			"title": "Release",
-			"name": "1.9",
-			"code": 1,
-			"version": 1,
-			"minSdk": 16,
-			"length": 29277,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanNulleu.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
-	"nullnyan": [
-		{
-			"title": "Release",
-			"name": "1.8",
-			"code": 1,
-			"version": 1,
-			"minSdk": 16,
-			"length": 22679,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanNullnyan.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
-	"nullone": [
-		{
-			"title": "Release",
-			"name": "1.3",
-			"code": 1,
-			"version": 1,
-			"minSdk": 16,
-			"length": 27542,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanNullone.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -648,18 +456,6 @@
 			"minSdk": 14,
 			"length": 57498,
 			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanOwlchan.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
-	"ozuchan": [
-		{
-			"title": "Release",
-			"name": "1.1",
-			"code": 1,
-			"version": 1,
-			"minSdk": 16,
-			"length": 19247,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanOzuchan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -708,18 +504,6 @@
 			"minSdk": 16,
 			"length": 15740,
 			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanRandomArchive.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
-	"ronery": [
-		{
-			"title": "Release",
-			"name": "1.0",
-			"code": 1,
-			"version": 1,
-			"minSdk": 14,
-			"length": 56975,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanRonery.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -795,18 +579,6 @@
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
-	"touhouchan": [
-		{
-			"title": "Release",
-			"name": "1.1",
-			"code": 1,
-			"version": 1,
-			"minSdk": 16,
-			"length": 21649,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanTouhouchan.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
 	"tumbach": [
 		{
 			"title": "Release",
@@ -828,18 +600,6 @@
 			"minSdk": 16,
 			"length": 21830,
 			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanTwentySeven.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
-	"twowatch": [
-		{
-			"title": "Release",
-			"name": "1.1",
-			"code": 1,
-			"version": 1,
-			"minSdk": 14,
-			"length": 61650,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanTwowatch.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -888,18 +648,6 @@
 			"minSdk": 16,
 			"length": 22049,
 			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanWizardchan.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
-		}
-	],
-	"xyntach": [
-		{
-			"title": "Release",
-			"name": "1.0",
-			"code": 1,
-			"version": 1,
-			"minSdk": 16,
-			"length": 24830,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanXyntach.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
