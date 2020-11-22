@@ -58,20 +58,6 @@ def dumpapk(path):
 	sha256sum = ':'.join('{:02X}'.format(x) for x in m.digest())
 	manifest_entries = []
 
-	output = subprocess.run(['aapt', 'd', 'badging', path],
-		capture_output = True).stdout.decode('utf-8')
-	title = None
-	for line in output.split('\n'):
-		if line.startswith('application-label:'):
-			line = line[18:]
-			if line[0] == '\'':
-				line = line[1:-1]
-			title = line
-	if title.startswith('Dashchan for '):
-		title = title[13:]
-	elif title.startswith('Dashchan '):
-		title = title[9:]
-
 	output = subprocess.run(['aapt', 'd', 'xmltree', path, 'AndroidManifest.xml'],
 		capture_output = True).stdout.decode('utf-8')
 	element = None
@@ -111,6 +97,24 @@ def dumpapk(path):
 				attributes[key] = value
 	if element:
 		manifest_entries.append(ManifestEntry(element, attributes))
+
+	output = subprocess.run(['aapt', 'd', 'badging', path],
+		capture_output = True).stdout.decode('utf-8')
+	title = None
+	for line in output.split('\n'):
+		if line.startswith('application-label:'):
+			line = line[18:]
+			if line[0] == '\'':
+				line = line[1:-1]
+			title = line
+	if title is None:
+		for entry in manifest_entries:
+			if entry.element == 'application':
+				title = entry.attributes['label']
+	if title.startswith('Dashchan for '):
+		title = title[13:]
+	elif title.startswith('Dashchan '):
+		title = title[9:]
 	
 	fingerprints = []
 	with zipfile.ZipFile(path, 'r') as zip:
