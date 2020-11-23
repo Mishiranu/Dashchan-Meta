@@ -618,11 +618,11 @@
 	"webm": [
 		{
 			"title": "Release",
-			"name": "1.6",
+			"name": "1.7",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 6807287,
+			"length": 6905055,
 			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanWebm.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}

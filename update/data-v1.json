@@ -927,14 +927,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.6",
+					"version_name": "1.7",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 6807287,
+					"length": 6905055,
 					"source": "package/DashchanWebm.apk",
 					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "90:E5:89:F7:FD:C4:75:62:CE:A0:49:46:83:45:69:C1:3B:08:C1:E0:C8:92:40:32:E3:9B:59:E1:76:2E:CE:AD"
+					"sha256sum": "02:DA:BC:A8:52:3E:57:61:55:74:EA:E8:92:F8:8F:79:89:5A:A7:45:C1:B5:C5:85:E6:11:28:D7:C3:FB:BB:EA"
 				}
 			]
 		},
