@@ -8,15 +8,15 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "3.1.0",
-					"version_code": 1039,
+					"version_name": "3.1.1",
+					"version_code": 1040,
 					"min_api_version": 1,
 					"max_api_version": 1,
 					"min_sdk": 16,
-					"length": 1824773,
-					"source": "//github.com/Mishiranu/Dashchan/releases/download/3.1.0/Dashchan.apk",
+					"length": 1827841,
+					"source": "//github.com/Mishiranu/Dashchan/releases/download/3.1.1/Dashchan.apk",
 					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "F8:05:19:C6:71:39:45:7A:BD:E3:67:13:84:6F:BA:12:FF:AB:9B:22:52:7E:BC:FF:B3:F7:8F:FF:52:AB:50:65"
+					"sha256sum": "36:D1:16:37:14:06:95:1C:BA:C2:7C:C5:D9:0B:5A:BB:FB:4C:85:68:9D:BC:DC:F2:E3:60:56:F8:30:6F:7F:63"
 				}
 			]
 		},
