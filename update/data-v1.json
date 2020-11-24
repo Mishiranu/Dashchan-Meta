@@ -113,18 +113,18 @@
 		{
 			"name": "arhivach",
 			"type": "chan",
-			"title": "arhivach.ng",
+			"title": "arhivach.net",
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.11",
+					"version_name": "1.12",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 33044,
+					"length": 32972,
 					"source": "package/DashchanArhivach.apk",
 					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "42:77:C5:58:CA:5C:99:00:6A:1A:2B:EE:91:A2:74:9B:15:F0:EC:F8:2E:FE:A6:64:73:15:5A:66:D0:5F:92:67"
+					"sha256sum": "71:C3:33:81:E0:4C:F9:8A:99:0A:20:F1:3A:2C:3A:38:25:96:3C:3B:C1:77:98:88:9C:84:DB:75:36:6C:2E:DD"
 				}
 			]
 		},
