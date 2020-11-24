@@ -423,14 +423,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.19",
+					"version_name": "1.20",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 38116,
+					"length": 38184,
 					"source": "package/DashchanFourchan.apk",
 					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "43:B9:3F:1C:FC:99:6B:6F:7E:8D:C7:2A:6B:1F:83:4D:9C:02:22:D6:7D:E0:CC:44:6F:D4:D9:51:34:5F:53:19"
+					"sha256sum": "AB:DB:62:47:0E:A0:49:BE:53:58:9C:0F:E3:62:01:6C:E9:73:FC:76:6D:90:C4:A0:AB:61:FA:6C:50:4E:E4:82"
 				}
 			]
 		},
