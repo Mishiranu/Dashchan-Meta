@@ -311,18 +311,18 @@
 		{
 			"name": "dobrochan",
 			"type": "chan",
-			"title": "dobrochan.com",
+			"title": "dobrochan.net",
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.14",
+					"version_name": "1.15",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 23856,
+					"length": 32009,
 					"source": "package/DashchanDobrochan.apk",
 					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "96:91:85:62:61:BB:37:0E:C6:32:8D:C3:60:F9:E5:27:8B:A2:65:57:8D:29:07:2A:37:AE:E0:B8:C6:09:64:49"
+					"sha256sum": "71:B6:E8:C0:84:28:65:8A:45:DE:E7:12:EB:26:08:AC:B8:9E:FE:95:C9:EB:0D:6A:C8:B4:CA:31:D1:59:95:B1"
 				}
 			]
 		},
