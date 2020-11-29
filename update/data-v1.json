@@ -423,14 +423,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.21",
+					"version_name": "1.22",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 38976,
+					"length": 39164,
 					"source": "package/DashchanFourchan.apk",
 					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "51:23:BB:01:1E:6C:B6:07:80:D9:B7:09:41:77:66:B5:A7:16:E5:A0:0E:2B:92:55:90:5D:24:69:5A:9B:E4:A5"
+					"sha256sum": "87:A8:11:B2:51:BD:6E:40:20:0B:56:E9:91:99:85:0A:1C:06:D9:F4:72:2F:2E:93:26:FB:0B:AC:0E:AB:08:96"
 				}
 			]
 		},
