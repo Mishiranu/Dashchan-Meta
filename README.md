@@ -24,10 +24,10 @@ Video player libraries: [DashchanWebm.apk](https://github.com/Mishiranu/Dashchan
 | cirno           | iichan.hk            | [DashchanCirno.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanCirno.apk)                             |
 | dangeru         | dangeru.us           | [DashchanDangeru.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanDangeru.apk)                         |
 | diochan         | diochan.com          | [DashchanDiochan.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanDiochan.apk)                         |
-| dobrochan       | dobrochan.com        | [DashchanDobrochan.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanDobrochan.apk)                     |
+| dobrochan       | dobrochan.net        | [DashchanDobrochan.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanDobrochan.apk)                     |
 | dvach           | 2ch.hk               | [DashchanDvach.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanDvach.apk)                             |
-| endchan         | endchan.xyz          | [DashchanEndchan.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanEndchan.apk)                         |
-| erlach          | erlach.co            | [DashchanErlach.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanErlach.apk)                           |
+| endchan         | endchan.net          | [DashchanEndchan.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanEndchan.apk)                         |
+| erlach          | erlach.services      | [DashchanErlach.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanErlach.apk)                           |
 | exach           | exach.com            | [DashchanExach.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanExach.apk)                             |
 | fiftyfive       | 55chan.org           | [DashchanFiftyfive.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanFiftyfive.apk)                     |
 | fourchan        | 4chan.org            | [DashchanFourchan.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanFourchan.apk)                       |
@@ -37,7 +37,7 @@ Video player libraries: [DashchanWebm.apk](https://github.com/Mishiranu/Dashchan
 | kurisach        | kurisa.ch            | [DashchanKurisach.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanKurisach.apk)                       |
 | lainchan        | lainchan.org         | [DashchanLainchan.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanLainchan.apk)                       |
 | lolifox         | lolifox.org          | [DashchanLolifox.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanLolifox.apk)                         |
-| makabapaid      | 2channel.hk          | [DashchanMakabaPaid.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanMakabaPaid.apk)                   |
+| moechannel      | 2channel.moe         | [DashchanMoechannel.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanMoechannel.apk)                   |
 | nowere          | nowere.net           | [DashchanNowere.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanNowere.apk)                           |
 | nulldvachin     | 02ch.in              | [DashchanNulldvachin.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanNulldvachin.apk)                 |
 | nulltirech      | 0-chan.ru            | [DashchanNulltirech.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanNulltirech.apk)                   |
@@ -63,7 +63,7 @@ Video player libraries: [DashchanWebm.apk](https://github.com/Mishiranu/Dashchan
 | Chan Name       | Host                 | Extension Package Link                                                                                                                  |
 | :-------------: | :------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
 | archiverbt      | rbt.asia             | [DashchanArchiveRbt.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanArchiveRbt.apk)                   |
-| arhivach        | arhivach.org         | [DashchanArhivach.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanArhivach.apk)                       |
+| arhivach        | arhivach.net         | [DashchanArhivach.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanArhivach.apk)                       |
 | desustorage     | desuarchive.org      | [DashchanDesustorage.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanDesustorage.apk)                 |
 | fourplebs       | 4plebs.org           | [DashchanFourplebs.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanFourplebs.apk)                     |
 | local           | ( local archive )    | [DashchanLocal.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanLocal.apk)                             |
