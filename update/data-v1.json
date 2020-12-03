@@ -165,24 +165,6 @@
 			]
 		},
 		{
-			"name": "candydollchan",
-			"type": "chan",
-			"title": "candydollchan.org",
-			"packages": [
-				{
-					"title": "Release",
-					"version_name": "1.0",
-					"version_code": 1,
-					"api_version": 1,
-					"min_sdk": 16,
-					"length": 21640,
-					"source": "package/DashchanCandydollchan.apk",
-					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "41:7B:33:5F:E8:29:94:12:F4:7C:B0:4F:53:95:A2:B2:1D:0C:02:50:61:00:F7:F3:BD:BD:C1:99:5D:56:E1:CA"
-				}
-			]
-		},
-		{
 			"name": "chaosach",
 			"type": "chan",
 			"title": "chaos.cyberpunk.us",
@@ -791,24 +773,6 @@
 					"source": "package/DashchanShanachan.apk",
 					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
 					"sha256sum": "1F:D3:37:AF:EA:79:29:B5:BC:C2:89:E8:5A:C9:F9:88:CC:38:3F:D9:7E:85:0F:82:59:6F:4D:D3:94:8D:CB:54"
-				}
-			]
-		},
-		{
-			"name": "sharechan",
-			"type": "chan",
-			"title": "sharechan.org",
-			"packages": [
-				{
-					"title": "Release",
-					"version_name": "1.1",
-					"version_code": 1,
-					"api_version": 1,
-					"min_sdk": 14,
-					"length": 55704,
-					"source": "package/DashchanSharechan.apk",
-					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "E9:6E:F2:60:1A:6C:E9:6E:99:3B:0E:55:39:41:1E:4E:20:04:CC:46:C0:34:C9:60:E7:5D:6F:39:D9:7A:4C:FF"
 				}
 			]
 		},

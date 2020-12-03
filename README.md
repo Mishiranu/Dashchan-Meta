@@ -17,7 +17,6 @@ Video player libraries: [DashchanWebm.apk](https://github.com/Mishiranu/Dashchan
 | anonfm          | anon.fm              | [DashchanAnonfm.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanAnonfm.apk)                           |
 | brchan          | brchan.org           | [DashchanBrchan.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanBrchan.apk)                           |
 | bunbunmaru      | bunbunmaru.com       | [DashchanBunbunmaru.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanBunbunmaru.apk)                   |
-| candydollchan   | candydollchan.org    | [DashchanCandydollchan.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanCandydollchan.apk)             |
 | chaosach        | chaos.cyberpunk.us   | [DashchanChaosach.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanChaosach.apk)                       |
 | chiochan        | 410chan.org          | [DashchanChiochan.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanChiochan.apk)                       |
 | chuckdfwk       | chuck.dfwk.ru        | [DashchanChuckDfwk.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanChuckDfwk.apk)                     |
@@ -48,7 +47,6 @@ Video player libraries: [DashchanWebm.apk](https://github.com/Mishiranu/Dashchan
 | princessluna    | princessluna.ru      | [DashchanPrincessLuna.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanPrincessLuna.apk)               |
 | sevenchan       | 7chan.org            | [DashchanSevenchan.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanSevenchan.apk)                     |
 | shanachan       | shanachan.org        | [DashchanShanachan.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanShanachan.apk)                     |
-| sharechan       | sharechan.org        | [DashchanSharechan.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanSharechan.apk)                     |
 | synch           | syn-ch.com           | [DashchanSynch.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanSynch.apk)                             |
 | taima           | 420chan.org          | [DashchanTaima.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanTaima.apk)                             |
 | tiretirech      | 2--ch.ru             | [DashchanTiretirech.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanTiretirech.apk)                   |
