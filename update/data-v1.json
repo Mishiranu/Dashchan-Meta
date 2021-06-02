@@ -315,14 +315,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.38",
+					"version_name": "1.39",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 60796,
+					"length": 61556,
 					"source": "package/DashchanDvach.apk",
 					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "CD:77:09:99:AA:48:95:B2:2E:55:C0:0C:8D:0C:6A:CE:F9:2C:35:63:87:AF:72:C3:02:95:06:C5:CD:69:31:68"
+					"sha256sum": "89:43:42:94:7A:42:D1:E9:0A:C0:58:7A:EE:B1:A0:7E:44:50:20:4A:62:1A:E9:3F:AA:BE:42:AA:9C:1B:85:97"
 				}
 			]
 		},
@@ -405,14 +405,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.24",
+					"version_name": "1.25",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 40324,
+					"length": 40296,
 					"source": "package/DashchanFourchan.apk",
 					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "06:32:E3:C7:70:C7:7E:D7:F9:F2:4A:3B:E2:34:B5:F4:42:98:A1:F1:CD:33:0A:47:99:93:8D:BC:F6:4A:14:99"
+					"sha256sum": "81:BF:D5:3F:AD:51:47:ED:FA:AE:9E:89:E4:AE:CB:3A:8E:CC:5C:4D:EA:4A:5C:0F:34:6F:FF:F5:C0:AC:63:F0"
 				}
 			]
 		},
