@@ -315,14 +315,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.39",
+					"version_name": "1.40",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
 					"length": 61556,
 					"source": "package/DashchanDvach.apk",
 					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "89:43:42:94:7A:42:D1:E9:0A:C0:58:7A:EE:B1:A0:7E:44:50:20:4A:62:1A:E9:3F:AA:BE:42:AA:9C:1B:85:97"
+					"sha256sum": "E6:B1:AB:D2:44:F9:D4:00:96:BF:3F:F8:45:12:75:5B:64:BF:17:8B:29:83:17:8A:C2:63:98:CA:44:DE:3D:A0"
 				}
 			]
 		},
