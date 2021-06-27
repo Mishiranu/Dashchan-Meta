@@ -210,11 +210,11 @@
 	"dvach": [
 		{
 			"title": "Release",
-			"name": "1.40",
+			"name": "1.41",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 61556,
+			"length": 63184,
 			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanDvach.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
