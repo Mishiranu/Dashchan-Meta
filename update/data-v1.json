@@ -315,14 +315,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.42",
+					"version_name": "1.43",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 62320,
+					"length": 62544,
 					"source": "package/DashchanDvach.apk",
 					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "19:DD:DF:7B:C6:D2:FD:80:EA:A9:7A:2C:EE:A3:42:61:F8:56:30:2C:E0:E6:2E:79:7B:0A:7C:90:94:AA:3B:C9"
+					"sha256sum": "2C:9E:E8:8E:29:11:72:4E:AC:05:CF:C1:D1:25:44:56:A2:24:83:2D:09:B4:D1:7D:D1:B1:D7:6E:58:B9:C8:2D"
 				}
 			]
 		},
