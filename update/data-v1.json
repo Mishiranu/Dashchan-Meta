@@ -783,14 +783,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.2",
+					"version_name": "1.3",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 21156,
+					"length": 21320,
 					"source": "package/DashchanSynch.apk",
 					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "53:C3:F7:F4:D3:95:BA:17:20:2E:B0:94:DF:A0:A7:A6:8E:88:A1:19:6C:E3:C0:B7:B5:D3:F3:2A:9A:D9:A8:74"
+					"sha256sum": "F8:DF:92:61:1F:44:11:93:78:80:7C:E0:67:31:93:6F:1C:56:BF:C7:C3:80:2F:EF:7E:AB:F1:52:FC:0D:C3:62"
 				}
 			]
 		},
