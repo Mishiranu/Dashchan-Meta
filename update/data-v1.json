@@ -831,24 +831,6 @@
 			]
 		},
 		{
-			"name": "tumbach",
-			"type": "chan",
-			"title": "tumba.ch",
-			"packages": [
-				{
-					"title": "Release",
-					"version_name": "1.2",
-					"version_code": 1,
-					"api_version": 1,
-					"min_sdk": 16,
-					"length": 49574,
-					"source": "package/DashchanTumbach.apk",
-					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "8B:B0:E4:9E:3C:DD:0D:E5:74:80:F3:F3:E1:8E:B4:58:30:87:D1:8B:FE:49:32:E3:34:12:DD:03:7A:33:E4:09"
-				}
-			]
-		},
-		{
 			"name": "twentyseven",
 			"type": "chan",
 			"title": "27chan.org",

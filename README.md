@@ -50,7 +50,6 @@ Video player libraries: [DashchanWebm.apk](https://github.com/Mishiranu/Dashchan
 | synch           | syn-ch.com           | [DashchanSynch.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanSynch.apk)                             |
 | taima           | 420chan.org          | [DashchanTaima.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanTaima.apk)                             |
 | tiretirech      | 2--ch.ru             | [DashchanTiretirech.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanTiretirech.apk)                   |
-| tumbach         | tumba.ch             | [DashchanTumbach.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanTumbach.apk)                         |
 | twentyseven     | 27chan.org           | [DashchanTwentySeven.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanTwentySeven.apk)                 |
 | uboachan        | uboachan.net         | [DashchanUboachan.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanUboachan.apk)                       |
 | valkyria        | u18chan.com          | [DashchanValkyria.apk](https://github.com/Mishiranu/Dashchan-Meta/raw/master/update/package/DashchanValkyria.apk)                       |
