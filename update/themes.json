@@ -36,6 +36,17 @@
 		},
 		{
 			"base": "dark",
+			"name": "Hardon-Amoled",
+			"window": "#ff000000",
+			"primary": "#ff000000",
+			"accent": "#ffff6600",
+			"card": "#ff000000",
+			"quote": "#ff77dd00",
+			"tripcode": "#ff33cc88",
+			"capcode": "#ff66bbff"
+		},
+		{
+			"base": "dark",
 			"name": "Neutron",
 			"window": "#ff2c2c2c",
 			"primary": "#ff6688cc",
